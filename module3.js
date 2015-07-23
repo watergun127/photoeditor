@@ -103,7 +103,4 @@ class RGBA {
 $(document).ready(function() {
     var img = new Image();
     img.src = "img/cat.jpg";
-
-
-
 });
